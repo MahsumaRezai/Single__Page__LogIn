@@ -6,7 +6,7 @@ const MainNavigation = () => {
   return (
     <header className={classes.header}>
       <Link to='/'>
-        <div className={classes.logo}>React sing in page</div>
+        <div className={classes.logo}> Sing In Page</div>
       </Link>
       <nav>
         <ul>
